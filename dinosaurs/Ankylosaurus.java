@@ -1,6 +1,6 @@
 package dinosaurs;
 
-public class Ankylosaurus implements Herbivore {
+public class Ankylosaurus implements Armored {
     @Override
     public String getName() {
         return "Ankylosaurus";

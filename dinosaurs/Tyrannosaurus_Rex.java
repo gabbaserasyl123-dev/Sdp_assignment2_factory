@@ -1,6 +1,6 @@
 package dinosaurs;
 
-public class Tyrannosaurus_Rex implements Herbivore {
+public class Tyrannosaurus_Rex implements Theropod {
     @Override
     public String getName() {
         return "Tyrannosaurus Rex";
